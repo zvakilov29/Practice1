@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "usKiIflj4Jh2ZVPBt90EuhtK3N+C7Tp+CakmJ2GGodqwq7zRWNaHOFBgC4DsuTdJ8tJ7IvI8TqaFzNu745/8BQ==",
+  "success": true,
+  "projectFilePath": "D:\\Computer Science\\Code Academy\\Practice\\Practice 1\\AbstractionPolymorphism\\AbstractionPolymorphism\\AbstractionPolymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zakariyya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
